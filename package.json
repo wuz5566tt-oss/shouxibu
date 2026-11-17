@@ -1,0 +1,20 @@
+{
+  "name": "shouxibu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0",
+    "opencc-js": "^1.4.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
